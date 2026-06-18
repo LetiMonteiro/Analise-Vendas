@@ -64,4 +64,4 @@ python analise.py
 
 **Letícia Monteiro**
 
-Estudante de Ciência da Computação com interesse em Ciência de Dados, Análise de Dados e Desenvolvimento de Software.
+ 
