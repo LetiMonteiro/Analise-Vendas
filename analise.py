@@ -1,5 +1,6 @@
 # ==========================================================
 # PRIMEIRO PROJETO DE CIÊNCIA DE DADOS COM PANDAS
+# -bem etalhado para estudo e reestudo
 #
 # Objetivo:
 # Realizar uma análise simples de um arquivo CSV contendo
