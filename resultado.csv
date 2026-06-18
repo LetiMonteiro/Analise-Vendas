@@ -1,0 +1,11 @@
+Data,Produto,Categoria,Quantidade,Preco,Faturamento
+2025-01-01,Notebook,Eletrônicos,2,3500,7000
+2025-01-01,Mouse,Eletrônicos,5,80,400
+2025-01-02,Camiseta,Roupas,10,50,500
+2025-01-02,Calça,Roupas,4,120,480
+2025-01-03,Notebook,Eletrônicos,1,3500,3500
+2025-01-03,Tênis,Calçados,3,300,900
+2025-01-04,Camiseta,Roupas,8,50,400
+2025-01-04,Mouse,Eletrônicos,7,80,560
+2025-01-05,Tênis,Calçados,5,300,1500
+2025-01-05,Notebook,Eletrônicos,3,3500,10500
